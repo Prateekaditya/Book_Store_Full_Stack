@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage reports
+coverage/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+bower_components/
+
+# Package-lock.json and yarn.lock (optional, if you want to ignore lock files)
+# package-lock.json
+# yarn.lock
+
+# Jest
+jest-test-results.json
